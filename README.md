@@ -137,6 +137,5 @@ This tool is designed for research purposes. It should not be used as a sole dia
 
 ---
 
-**Last Updated**: 2026-05-31
 
 For more information about the research and methodology, please explore the Jupyter notebooks in this repository.
